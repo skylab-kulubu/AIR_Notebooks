@@ -9,3 +9,5 @@
 ### Finding Similarity
 ![My Remote Image](https://github.com/skylab-kulubu/AIR_Notebooks/blob/main/MovieRecommedation/sim0.png)
 ![My Remote Image](https://github.com/skylab-kulubu/AIR_Notebooks/blob/main/MovieRecommedation/sim1.png)
+
+<details> Resources <br> https://medium.com/@sumanadhikari/building-a-movie-recommendation-engine-using-scikit-learn-8dbb11c5aa4b </details>
