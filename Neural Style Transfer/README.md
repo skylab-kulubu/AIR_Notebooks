@@ -1,31 +1,18 @@
-Neural Style Transfer from scracth with pyTorch. 
+# NEURAL STYLE TRANSFER 
 
-Input Image    
-![image](https://user-images.githubusercontent.com/94362868/236210953-595a6de5-f905-445c-8635-27bd42933d10.png)  
-   
-      
-      
+## NST Notebook 
+Bu notebookta NST işlemi tensorflow-hub'taki hazır model kullanılarak gerçekleştirilmiştir.   
+Notebook Google Colab'te yazılıp çalıştırılmıştır eğer siz de çalıştırmak isterseniz local bilgisayarınıza gerekli   
+kütüphanaleri indirip çalıştırabilirsiniz veya Google Colab'te notebook'u direkt çalıştırabilirsiniz.  
+Her iki durum için de sizin kodun bulunduğu çalışma dosyasına resimleri eklemeniz gerekmektedir ve resimleri yüklerken  
+yolları kendi resiminize göre değiştirmelisiniz.Google Colab'te ise resimleri kendi drive'nıza eklemeniz gerekmektedir.  
 
+## Nueral Transfer from Scratch Notebook 
+Bu notebook Kaggle platformunda yazılmıştır.GPU kullanılarak çalıştırılmıştır aksi halde çok uzun sürecektir.  
+Sizin kendi bilgisayarınızda güçlü bir GPU yoksa kendi bilgisayarınızda çalıştırmanızı önermemekteyim.  
+Eğer kendi bilgisayarınızda kodu çalıştırmak isterseniz gerekli kütüphaneleri kurmanız gerekmektedir.Ayrıca CUDA kurulumunu da yapmanız gerekmektedir.  
+Aynı şekilde resim dosyalarını yüklemeniz ve koddaki resim yükleme fonksiyonuna kendi resminizin adresini vermeniz gerekmektedir.  
+Kaggle'da T4×2 kullanılarak yaklaşık 45 dakika sürmüştür.   
 
-
-Stylized Image    
-![image](https://user-images.githubusercontent.com/94362868/236211122-bd002944-76c4-4947-9865-3e5b3995d5df.png)    
-   
-       
-          
-          
-
-
-
-Combine Output Image  
-![image](https://user-images.githubusercontent.com/94362868/236211285-f24ed630-800e-4b43-969d-f89e069751cb.png)     
-Detailed explanations in pdf file
-   
-      
-          
-          
-
-
-
-
-
+### Notebook Kaggle Linki:
+https://www.kaggle.com/code/salimyiitkoca/neural-scratch
