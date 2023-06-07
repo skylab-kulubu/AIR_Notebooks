@@ -1,4 +1,4 @@
-#GRADIENT CHECKING   
+# GRADIENT CHECKING   
 
 
 Written by **Bahar Karakaya**   
