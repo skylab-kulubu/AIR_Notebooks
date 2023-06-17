@@ -16,7 +16,7 @@ You can check if you want.
 |  Image Segmentation |  [Salim Yiğit Koca](https://github.com/Salim-Yigit)        | [Medium](https://medium.com/@salimyigitk/image-segmantation-7af28d874757) |  
 | Feature Importance Nedir?  |  [Bahar Karakaya](https://github.com/Bahar-K)   | [Medium](https://medium.com/@firstbahartime/feature-importance-nedir-df0d95f3579e) |   
 | What is Feature Importance - Explained |  [Bahar Karakaya](https://github.com/Bahar-K)   | [Medium](https://medium.com/@firstbahartime/what-is-feature-importance-explained-81eb3bc3490a) | 
-|  Neural Style Transfer From Scratch | [Salim Yiğit Koca]https://github.com/Salim-Yigit)       | [Medium](https://medium.com/@salimyigitk/neural-style-transfer-from-scratch-45545926a308) |  
+|  Neural Style Transfer From Scratch | [Salim Yiğit Koca](https://github.com/Salim-Yigit)       | [Medium](https://medium.com/@salimyigitk/neural-style-transfer-from-scratch-45545926a308) |  
 | Derin Öğrenmede Kullanılan Optimizasyon ALgoritmaları |  [Buse Nur Pekmezci](https://github.com/bnurpek)   | [Medium](https://medium.com/@bnurpekmezci/derin-%C3%B6%C4%9Frenmede-kullan%C4%B1lan-optimizasyon-algoritmalar%C4%B1-a2b4e2bbfe27) | 
 | Understanding LSTM | [Emine Cansu Akgül](https://github.com/xcansuxakgul) | [Medium](https://medium.com/@eminecansuakgul/understanding-lstm-1b5c2ccb58ae) |
 | Practical Aspects of Deep Learning | [Emrullah Ataklı]() | [Medium](https://medium.com/@emrullah9989/practical-aspects-of-deep-learning-3889994eb626) |
